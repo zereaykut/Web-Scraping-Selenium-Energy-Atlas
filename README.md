@@ -32,4 +32,4 @@ Run dashboard
 python web_scrape_energy_atlas.py
 ```
 
-There should be .json that contains energy atlas data in the working directory
+There should be .json files that contains energy atlas data in the working directory
