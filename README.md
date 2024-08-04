@@ -9,17 +9,17 @@ cd web_scraping_selenium_energy_atlas
 
 Create python environment
 ```shell
-python -m venv env
+python -m venv venv
 ```
 
 Activate environment in Mac/Linux 
 ```shell
-source env/bin/activate
+source venv/bin/activate
 ```
 
 Activate environment in Windows 
 ```shell
-.\env\Scripts\activate
+.\venv\Scripts\activate
 ```
 
 Install required packages
