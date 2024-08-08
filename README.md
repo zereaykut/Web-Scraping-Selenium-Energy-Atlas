@@ -3,8 +3,8 @@
 ## Run Code
 Clone the repo
 ```shell
-git clone https://github.com/zereaykut/web_scraping_selenium_energy_atlas
-cd web_scraping_selenium_energy_atlas
+git clone https://github.com/zereaykut/Web-Scraping-Selenium-Energy-Atlas
+cd Web-Scraping-Selenium-Energy-Atlas
 ```
 
 Create python environment
